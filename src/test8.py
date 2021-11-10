@@ -1,4 +1,5 @@
 """
+update: 2021.11.10 22:29: to test git func
 http://c.biancheng.net/matplotlib/grid.html
 通过 Matplotlib axes 对象提供的 grid() 方法可以开启或者关闭画布中的网格（即是否显示网格）以及网格的主/次刻度。
 除此之外，grid() 函数还可以设置网格的颜色、线型以及线宽等属性。
